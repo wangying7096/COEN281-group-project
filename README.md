@@ -11,11 +11,6 @@ The dataset should be located in the same folder as the source code, and the nam
 By typing the command line "Python GradientBoostingRegressor.py" will start train the model and give MSE of the test result.
 ## Linear/Polynomial Regression
 The dataset should be located in the same folder as the source code, and the name sould be 2018.csv. 
-
 By typing the command line "python preprocessing.py" will start preprocessing the data
-
-After pure_data.pkl and label.pkl is generated. 
-
-type in "python model.py"
-
+After pure_data.pkl and label.pkl is generated,type in "python model.py"
 The program will print out mse and cross validation result
